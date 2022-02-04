@@ -1,0 +1,33 @@
+[{
+    "id": 1,
+    "task": "Give Cat a Bath",
+    "complete": false
+  },  {
+    "id": 2,
+    "task": "Vacuum Floor",
+    "complete": false
+  }, {
+    "id": 3,
+    "task": "Go to Store",
+    "complete": false
+  },   {
+    "id": 4,
+    "task": "Bake Cookies",
+    "complete": false
+  }, {
+    "id": 5,
+    "task": "Take Nap",
+    "complete": false
+  }, {
+    "id": 6,
+    "task": "Read Book",
+    "complete": false
+  }, {
+    "id": 7,
+    "task": "Exercise",
+    "complete": false
+  },{
+    "id": 8,
+    "task": "Do Laundry",
+    "complete": false
+  }]
